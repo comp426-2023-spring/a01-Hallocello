@@ -20,7 +20,8 @@ fs.readFile('./public/index.html', 'utf-8', (err, data) => {
 	if(err){
 		console.error(err);
 		return;
-
+	}
+}
 
 
 
