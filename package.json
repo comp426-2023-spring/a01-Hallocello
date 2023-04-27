@@ -1,0 +1,27 @@
+{
+  "name": "joseph-kim-webserver",
+  "version": "1.0.0",
+  "description": "This is the submission for assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-Hallocello.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "port"
+  ],
+  "author": "Hallocello",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-Hallocello/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-Hallocello#readme",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
